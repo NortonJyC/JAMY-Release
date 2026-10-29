@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-labelledby="title desc">
+<title id="title">让创作素材持续可用</title><desc id="desc">本地资源工作流：收录、查找、预览、整理。</desc>
+<rect x="0.5" y="0.5" width="1199" height="199" rx="16" fill="#f8f9fb" stroke="#e5e7eb"/>
+<g font-family="Segoe UI, Microsoft YaHei, sans-serif">
+<text x="42" y="41" font-size="10" letter-spacing="2.5" fill="#be123c">A WORKSPACE FOR YOUR ASSETS</text>
+<text x="42" y="92" font-size="29" font-weight="600" fill="#17202e">收录</text><text x="42" y="125" font-size="14" fill="#626b78">复制入库 / 仅建立索引</text>
+<text x="342" y="92" font-size="29" font-weight="600" fill="#17202e">查找</text><text x="342" y="125" font-size="14" fill="#626b78">名称 / 标签 / 色彩</text>
+<text x="642" y="92" font-size="29" font-weight="600" fill="#17202e">预览</text><text x="642" y="125" font-size="14" fill="#626b78">模型 / 图像 / 影音</text>
+<text x="942" y="92" font-size="29" font-weight="600" fill="#17202e">整理</text><text x="942" y="125" font-size="14" fill="#626b78">目录 / 评分 / 项目</text></g>
+<g stroke="#d9dde5" fill="none"><path d="M299 65v70M599 65v70M899 65v70"/></g>
+<path d="M42 161h195" stroke="#be123c" stroke-width="3"/><path d="M342 161h195M642 161h195M942 161h195" stroke="#d9dde5" stroke-width="3"/>
+</svg>

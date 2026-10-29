@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="44" viewBox="0 0 144 44" role="img" aria-labelledby="title">
+  <title id="title">探索 JAMY 官网</title>
+  <rect x="0.5" y="0.5" width="143" height="43" rx="8" fill="#fff" stroke="#d8dce3"/>
+  <text x="23" y="27" font-family="Segoe UI, Microsoft YaHei, sans-serif" font-size="14" font-weight="600" fill="#303744">探索官网</text>
+  <path d="M108 27l9-10m-8 0h8v8" fill="none" stroke="#626b78" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
